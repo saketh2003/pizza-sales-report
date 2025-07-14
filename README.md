@@ -10,7 +10,7 @@ This Power BI dashboard project explores pizza sales data to uncover key busines
 ![Pizza Sales Dashboard - Page 1](Screenshot1Homepage.png)  
 *Sales trends, busiest days, top pizza categories and sizes.*
 
-![Pizza Sales Dashboard - Page 2](Screenshots2Best&worstsellers.png)  
+![Pizza Sales Dashboard - Page 2](Screenshot2Best&worstsellers.png)  
 *Best/worst sellers by revenue, quantity, and total orders.*
 
 ---
