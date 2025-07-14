@@ -7,10 +7,10 @@ This Power BI dashboard project explores pizza sales data to uncover key busines
 
 ## 📊 Dashboard Preview
 
-![Pizza Sales Dashboard - Page 1](screenshots/dashboard_page1.png)  
+![Pizza Sales Dashboard - Page 1](Screenshot1Homepage.png)  
 *Sales trends, busiest days, top pizza categories and sizes.*
 
-![Pizza Sales Dashboard - Page 2](screenshots/dashboard_page2.png)  
+![Pizza Sales Dashboard - Page 2](Screenshots2Best&worstsellers.png)  
 *Best/worst sellers by revenue, quantity, and total orders.*
 
 ---
@@ -45,4 +45,14 @@ This Power BI dashboard project explores pizza sales data to uncover key busines
 ---
 
 ## 📂 Project Structure
+Pizza-Sales-Dashboard/
+│
+├── PizzaSalesDashboard.pbix # Power BI dashboard
+├── pizza_sales_data.csv # Raw data
+├── queries.sql # SQL queries
+├── screenshots/
+│ ├── Screenshot1Homepage.png
+│ └── Screenshot2Best&worstsellers.png
+└── README.md # This file
+
 
